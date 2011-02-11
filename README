@@ -1,0 +1,5 @@
+Simple piping http reverse proxy using node.  
+
+Currently uses hardcoded backend and a simple auth module that controls access on paths.
+
+
